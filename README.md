@@ -46,7 +46,7 @@ Verify on GitHub:
 
 Go back to your GitHub repository page and refresh. You should see your Terraform files and the .gitlab-ci.yml file.
 
-## Run the app i
+## Run the app 
 kubectl create -f k8s-specifications/
 
 
