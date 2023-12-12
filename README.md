@@ -5,6 +5,12 @@ Selanjutnya, atur file YAML untuk komponen-komponen seperti database (db), hasil
 
 git clone https://github.com/adamshaffa/test-case.git
 
+
+
+### before running terraform u must : 
+- run gcloud auth login for gcp
+
+
 ## To Run Terraform 
 
 - Open the main.tf 
