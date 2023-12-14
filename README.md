@@ -32,5 +32,5 @@ kubectl delete -f k8s-specifications/
 
 ## TO see 
 
-It must be on http://"<localhost>":31000 for the vote
-It must be on http://"<localhost>":31000 for the view
+It must be on http://"localhost":31000 for the vote
+It must be on http://"localhost":31000 for the view
